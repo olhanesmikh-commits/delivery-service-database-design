@@ -1,10 +1,10 @@
 ## 🖼 Database Diagrams
 
 ### Conceptual Model
-![EERD Diagram](EERD.png)
+![EERD Diagram](diagrams/EERD.png)
 
 ### Relational Schema 
-![RSD Diagram](RSD.png)
+![EERD Diagram](diagrams/RSD.png)
 
 # Database Design: Delivery Service System
 
