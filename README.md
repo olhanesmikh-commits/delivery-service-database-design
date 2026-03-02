@@ -23,7 +23,7 @@ The system is designed to manage core delivery operations, including customer da
 2. **RSD (Relational Schema Diagram):** Logical model showcasing table structures, data types, Primary Keys, and Foreign Keys.
 3. **Database Normalization:** The schema is normalized to **3NF** (Third Normal Form) to eliminate data redundancy and ensure integrity.
 
-## 📈 Key Accomplishments (for Resume)
+## 📈 Key Accomplishments
 * Developed a relational database schema for a complex **Delivery Service** domain.
 * Designed **EERD** and **RSD** diagrams to model business processes and ensure data integrity.
 * Normalized the database structure to **3NF** to maintain data consistency and reduce redundancy.
